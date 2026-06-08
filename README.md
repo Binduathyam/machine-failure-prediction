@@ -253,23 +253,6 @@ Completed Tasks:
 * Organized screenshots for project documentation
 * Updated GitHub repository
 
----
-
-## Folder Structure
-
-```text
-Predictive-Maintenance-Project/
-│── dataset/
-│   └── predictive_maintenance.csv
-│
-│── notebook/
-│   └── predictive_maintenance_project.ipynb
-│
-│── screenshots/
-│   └── project_images
-│
-│── README.md
-```
 
 ---
 
